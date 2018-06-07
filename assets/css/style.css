@@ -1,0 +1,33 @@
+.jumbotron {
+    margin-bottom: 5px;
+    background: rgb(6, 187, 247);
+  }
+  .text-center{
+      color: blue;
+      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+      font-style: italic;
+  }
+
+#blue {
+    height: 100px;
+    width: 100px;
+}
+#yellow {
+    height: 100px;
+    width: 100px;
+}
+#green {
+    height: 100px;
+    width: 100px;
+}
+#purple {
+    height: 100px;
+    width: 100px;
+}
+
+  body {
+      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+      background: url("../images/gemsbackground.jpg");
+      
+  }
+    
